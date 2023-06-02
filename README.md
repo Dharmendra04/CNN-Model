@@ -8,7 +8,7 @@ CIFAR10 is an image dataset consisting of natural color images, which is commonl
 This model consist of the following model architecture, and even with this small CNN blocks the model managed to get a test accuracy of 80 percent and trainign accuracy of 83 percent.
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/Dharmendra04/CNN-Model/blob/main/Screenshot%202023-06-02%20at%2004.49.28.png">
   <br />
   <em>Figure 1:Model Architecture </em>
 </p>
